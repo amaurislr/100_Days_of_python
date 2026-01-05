@@ -1,0 +1,1 @@
+word_list = ["python", "programming", "code", "variable", "function", "loop", "data", "list", "dictionary", "module", "class", "object", "algorithm", "syntax", "library"]
